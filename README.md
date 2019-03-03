@@ -21,7 +21,7 @@ Then Use "Extensions/Fablab/Paths To Flex..." a dialog box will appear:
 5. Debugging information. This program will generate a text file under the inkscape extension directory which could be useful to help understanding its bahaviour in case of problem.
 
 When all fileds are completed, click on apply, and a structure with notches and flex will be drawn.
-![The result](/home/thierry/Programmes/Python1/Path2flex-master/Path2Flex3.png  "Path2Flex result")
+![The result](Path2Flex3.png  "Path2Flex result")
 - Note that flex structure is not drawn when not needed (when structure is not curve). This will save a great time of laser cutting time.
 - There is also a small red line on the structure with notches which will tell you where to start the flex assembly. The structure should be assembled clockwise, start a the line and go clockwise. 
 - If you want to build an actual box, you should duplicate the path with notches (Ctrl+D with inkscape), and it you be useful to invert it horizontaly if the two faces of your wood are not identical.
