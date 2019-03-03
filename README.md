@@ -11,9 +11,9 @@ Then launch inkscape, and on the menu "extensions" a sub-menu entry Fablab shoul
 ##Usage
 First, you should draw a path within inkscape. Then select this  **path** (use Object to Path to make a real path if you have drawn some characters, rounded rectangles and so on).
 You can use any path, but beware wood is not very much flexible so you should not use too tight curves in your path. It will depend on yout wood thickness of course, but do not use curves with a radius under 10-15mm.
-![Selected Path](/home/thierry/Programmes/Python1/Path2flex-master/600px-InkscapeFlex1.png) 
+![Selected Path](600px-InkscapeFlex1.png) 
 Then Use "Extensions/Fablab/Paths To Flex..." a dialog box will appear:
-![The path 2 flex dialog box](/home/thierry/Programmes/Python1/Path2flex-master/Path2Flex2.png  "The path 2 flex dialog box")
+![The path 2 flex dialog box](Path2Flex2.png  "The path 2 flex dialog box")
 1. Material thickness : select a value compatible with you material. You should only use thin wood, thickness over 5mm will give bad results, as the wood will not be flexible enough.
 2. Structure height : this is the height of the flex structure, it will be the height of the finished box. 
 3. Inteval between notches : by default, each notch is about two millimeter wide, and notches are separated by 2 millimeters interval as well. This could be changed in order to reduce the number of notches by increasing the intervall between notches. Enter an integer between 2 and 10. Reducing the number of notches will lead to a box maybe more fragile, but muxh easier to assemble.
